@@ -1,0 +1,22 @@
+id,firstName,lastName,email,position,salary,department
+1,Patrick,Ramirez,patrick.ramirez@example.com,Press sub,63724,HR
+2,Martin,Crotty,martin.crotty@example.com,Chartered accountant,74497,Design
+3,Robert,Mauldin,robert.mauldin@example.com,Sales executive,55622,Support
+4,Micheal,Motes,micheal.motes@example.com,Tree surgeon,82807,Design
+5,Margaret,Miles,margaret.miles@example.com,Consulting civil engineer,97398,HR
+6,Brenda,Hernandez,brenda.hernandez@example.com,Market researcher,48579,Support
+7,Ellyn,Kirby,ellyn.kirby@example.com,Patent examiner,40922,Support
+8,Glen,Mcmillan,glen.mcmillan@example.com,Retail manager,60818,Marketing
+9,Roger,Smith,roger.smith@example.com,Clinical research associate,95018,Engineering
+10,Myrtle,Lovin,myrtle.lovin@example.com,"Teacher, adult education",76980,Marketing
+11,Charles,Rodriguez,charles.rodriguez@example.com,Advertising art director,51722,HR
+12,Trevor,Boyden,trevor.boyden@example.com,Banker,99272,Finance
+13,Janice,Popp,janice.popp@example.com,Publishing rights manager,58846,Other
+14,Jose,Peters,jose.peters@example.com,Surgeon,66887,Finance
+15,Anthony,Bonin,anthony.bonin@example.com,Hospital pharmacist,51338,Other
+16,Danita,Johnston,danita.johnston@example.com,Customer service manager,72003,Sales
+17,Samantha,Tang,samantha.tang@example.com,Medical physicist,77456,Sales
+18,Ronald,Jones,ronald.jones@example.com,Control and instrumentation engineer,97485,Sales
+19,Caryn,Jackson,caryn.jackson@example.com,Sub,98044,Engineering
+20,Andrew,Brower,andrew.brower@example.com,"Engineer, production",77188,Management
+1000,Joseph,Hernandez,joseph.hernandez@example.com,Occupational hygienist,70652,Management
